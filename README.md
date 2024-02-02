@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🏠Kebumen<br>🎂 2006<br>🎯 WEB DEVELOPER || ML AI ENGINEER</p>
+<p align="left">🏠Kebumen<br>🎂 2006<br>🎯 WEB DEVELOPER</p>
 
 ###
 
