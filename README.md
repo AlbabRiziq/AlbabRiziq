@@ -24,8 +24,6 @@
 
 ###
 
-<p align="left">🏠Kebumen<br>🎂 2006<br>🎯 WEB DEVELOPER</p>
-
 ###
 
 <h2 align="left">I code with</h2>
